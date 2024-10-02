@@ -30,7 +30,7 @@ spec:
 
       - name: nginx
 
-        image: nginx:latest
+        image: 484907495344.dkr.ecr.ap-southeast-1.amazonaws.com/jdecr:github.sha
 
         ports:
 
